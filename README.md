@@ -7,3 +7,9 @@
 ![image](https://github.com/in-the-neon-sunrise/OS_ihw1/assets/64023022/acc33ea8-a09d-438e-9fa9-729bfc857c45)
 Консольное приложение разработано, тесты находятся в папке tests.
 Файл с входными данными должен иметь название input.txt, а файл, в который запишется ответ -- output.txt.
+# На 5 баллов
+![image](https://github.com/in-the-neon-sunrise/OS_ihw1/assets/64023022/d341ff98-8bfd-4dbb-99c9-e8309ece6be7)
+В программе используются каналы с названиями fd1.fifo и fd2.fifo, расположенные в той же папке, что и сама запускаемая программа. Каналы создаются с помощью команды mknod.
+# На 6 баллов
+![image](https://github.com/in-the-neon-sunrise/OS_ihw1/assets/64023022/add0ba85-9926-4a30-8ef2-8e004c81a89c)
+
